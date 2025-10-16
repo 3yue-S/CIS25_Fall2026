@@ -1,0 +1,29 @@
+Scope of Work
+
+Project Title: Personal Book Catalogue
+Student Name: Sue Moon
+Date: 10/14/2025
+
+Project Overview:
+The project will store a number of books in its inventory to serve as the catalogue with the user being able to add new books into said catalogue.
+The program is able to let the user search for a specific book using name or author. The program will display the searched book's location and a short summary of said book.
+Otherwise, the program will display that the book is not in the catalogue or not owned by the user.
+
+Goals:
+1. Able to add books into the catalogue
+2. Search function to look for books in the catalogue
+3. Displays location and availability of books in catalogue or displays the books is not owned
+
+Deliverables: 
+Program files (main.coo + others)
+Output.pdf with screenshots and explanation
+GitHub submission with correct file structure
+
+Timeline:
+Week 1-2: Define idea & set up GitHub
+Week 3-4: Build Program features
+Week 5: Test & debug
+Week 6: Write Output.pdf
+Week 7: Submit final project
+
+Success Criteria: The project runs correctly, includes required features, and all files are submitted on time.
